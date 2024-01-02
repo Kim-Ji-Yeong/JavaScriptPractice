@@ -50,7 +50,6 @@ console.log(GD instanceof FemaleIdolModel);
 console.log(GD instanceof MaleIdoModel);
 
 console.log("---------------");
-
 console.log(jiYeong instanceof IdolModel);
 console.log(jiYeong instanceof FemaleIdolModel);
 console.log(jiYeong instanceof MaleIdoModel);

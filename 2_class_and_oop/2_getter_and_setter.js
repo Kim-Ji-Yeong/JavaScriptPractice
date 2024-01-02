@@ -29,7 +29,6 @@ console.log(G_Dragon.nameAndYear);
 
 G_Dragon.setName = "권지용";
 console.log(G_Dragon);
-
 console.log("-------------------");
 
 class IdolModel2 {

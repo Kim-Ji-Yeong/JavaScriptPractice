@@ -28,7 +28,6 @@ class FemaleIdolModel extends IdolModel {
     return `${super.sayHello()} ${this.part}를 맡고 있습니다.`;
   }
 }
-
 const sunMi = new FemaleIdolModel("선미", 1992, "댄스");
 console.log(sunMi);
 

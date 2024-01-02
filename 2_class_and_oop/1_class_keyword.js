@@ -16,7 +16,6 @@ class IdolModel {
 }
 
 // constructor - 생성자
-
 const G_Dragon = new IdolModel("GD", 1988);
 console.log(G_Dragon);
 

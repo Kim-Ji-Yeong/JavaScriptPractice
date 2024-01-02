@@ -48,6 +48,5 @@ const GD = IdolModel.fromObject({
   year: 1988,
 });
 console.log(GD);
-
 const taeYang = IdolModel.fromList(["태양", 1988]);
 console.log(taeYang);
